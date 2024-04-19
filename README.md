@@ -3,11 +3,10 @@
 ## Hướng dẫn cài đặt 
 Lưu ý: Cách cài đặt này được thực hiện trên vscode, máy 64bit
 1. Clone repository này xuống máy tính 
-2. Download thư viện, các file cần thiết khác ở đây https://drive.google.com/drive/folders/1ogK7Zw4ZuO2cRvWGX7L-hNIJXjqY2izQ?usp=sharing
-3. Trong file Makefile các bạn chú ý tùy chỉnh đường dẫn đến 'SDL2-2.0.20\x86_64-w64-mingw32\include' và 'SDL2-2.0.20\x86_64-w64-mingw32\lib' tùy theo đường dẫn ở máy bạn
-4. Đặt environment path của máy bạn đến mingw64/bin
-5. Sau khi xong hết, để chạy chương trình các bạn gõ vào terminal trong vscode 'mingw32-make'
-6. Chạy file main.exe
+2. Trong file Makefile các bạn chú ý tùy chỉnh đường dẫn đến 'SDL2-2.0.20\x86_64-w64-mingw32\include' và 'SDL2-2.0.20\x86_64-w64-mingw32\lib' tùy theo đường dẫn ở máy bạn
+3. Đặt environment path của máy bạn đến mingw64/bin
+4. Sau khi xong hết, để chạy chương trình các bạn gõ vào terminal trong vscode 'mingw32-make'
+5. Chạy file main.exe
 
 ## Mô tả về trò chơi
 Trò chơi được lấy cảm hứng bởi thể loại bắn súng, phiêu lưu. Ý tưởng chính là bạn được đặt vào một cốt truyện, trong cốt truyện đó bạn phải tiêu diệt quái vật, các mối hiểm họa để có thể tìm được phần thưởng ở cuối bản đồ. Khi hoàn thành bản đồ này thì sẽ được chuyển đến bản đồ khác.
