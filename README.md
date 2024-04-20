@@ -1,4 +1,5 @@
-# Sweet 
+# Sweet Hero
+# 23020125 Nguyễn Đỗ Trọng Nghĩa
 
 ## Hướng dẫn cài đặt 
 Lưu ý: Cách cài đặt này được thực hiện trên vscode, máy 64bit
@@ -33,7 +34,10 @@ Trò chơi được lấy cảm hứng bởi thể loại bắn súng, phiêu l�
 
 ## Kết luận
 Đây là dòng game luôn luôn có thể phát triển theo hướng tuyến tính. Một vài hướng phát triển tiếp theo: xây dựng thêm map để tăng trải nghiệm, thêm cốt truyện cho nhân vật, bổ sung các nhân vật khác vào, cho chơi chế độ 2 người, ...
+
+Em kì vọng dự án ày dc 6.5-7 
 ### Những điều tâm đắc của em sau khi hoàn thành chương trình
 -> Trải nghiệm quy trình phát triển sản phẩm thu nhỏ
+-> Rèn luyện kĩ năng lập trình hướng đối 
 -> Giúp em rèn thêm tính kiên nhẫn khi có bug
 -> Em sẽ thông cảm cho nhà phát hành hơn khi gặp lỗi trong trò chơi điện tử
